@@ -1,0 +1,9 @@
+ B   R   M
+
+ M     T
+
+ T  MBT  T
+
+ B      MT
+  B  R   M
+MT  B   T

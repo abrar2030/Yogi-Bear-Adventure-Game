@@ -1,0 +1,9 @@
+  B  R   T
+    M
+ B   R  T
+   T
+   B T  B
+MM
+T   R  B B
+ R  T   B
+T  B   T B
